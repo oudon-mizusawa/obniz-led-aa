@@ -9,6 +9,7 @@
 - Keyestudio_HT16K33
 
 ```
+# Keyestudio_HT16K33のobniz boardへジョイント(配線はled-matrix.provider.jsから確認)
 git clone git@github.com:oudon-mizusawa/obniz-led-aa.git
 cd obniz-led-aa
 npm install
