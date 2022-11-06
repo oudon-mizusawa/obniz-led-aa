@@ -1,5 +1,6 @@
 {
   "editor.defaultFormatter": "esbenp.prettier-vscode", // フォーマッターをPrettierにする
   "editor.formatOnSave": true, // ファイル保存時にフォーマットを実行
-  "prettier.semi": false
+  "prettier.semi": false,
+  "cSpell.words": ["obniz"]
 }
